@@ -45,11 +45,15 @@ main {
     border-bottom-right-radius: 10px;
 }
 
+
+
 main img {
     width: 100%;
     display: block;
-    margin: 0;
+    margin: auto;
 }
+
+
 
 body {
     background-color: #6AAED9;
